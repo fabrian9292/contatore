@@ -1,0 +1,37 @@
+*{
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+
+body{
+    display: flex;
+    height: 100vh;
+    place-items: center;
+}
+
+.container{
+  width: 500px;
+  height: 500px;
+  margin: auto;
+  border: 5px solid black;
+  line-height: 500%;
+  padding: 10px;
+  font-size: 38px;
+  text-align: center;
+
+}
+
+button {
+  width: 90px;
+  height: 30px;
+  margin: 10px;
+  border: 2px solid red;
+
+}
+
+span {
+  display: block;
+  tex
+  color: green;
+}
